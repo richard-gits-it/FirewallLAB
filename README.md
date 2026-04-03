@@ -1,8 +1,8 @@
-# ITEC285 — Lab 04: Firewalls & OPNsense
+# LAB: Firewalls & OPNsense
 
-**Course:** ITEC285 — Penetration Testing  
-**Lab:** 04 — Firewalls and Proxies  
-**Student:** RJ Lorenzo  
+**Course:** ITEC285 — Security
+**Lab:** Firewalls and Proxies  
+**Student:** Richard Lorenzo  
 **Date:** January 28, 2026
 
 ---
